@@ -6,6 +6,10 @@
     list-style: none;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 header {
     padding: 16px 16px 0;
 }
@@ -67,19 +71,19 @@ nav ul li {
 
 }
 
-swiper-container {
+/* swiper-container {
     width: 100%;
     height: 400px;
     position: relative;
-}
+} */
 
-swiper-slide img {
+.hero img {
     height: 400px;
     width: 100%;
     object-fit: cover;
 }
 
-span.swiper-pagination-bullet {
+/* span.swiper-pagination-bullet {
     background-color: #fff !important;
 }
 
@@ -89,11 +93,11 @@ span.swiper-pagination-bullet {
 
 span.swiper-pagination-bullet-active {
     background-color: #fff !important;
-}
+} */
 
 .plan-collection {
     padding-left: 16px;
-    margin-top: 40px; 
+    margin-top: 40px;
 }
 
 .collection-title {
@@ -104,7 +108,7 @@ span.swiper-pagination-bullet-active {
 }
 
 .collection-title::before {
-    content:"";
+    content: "";
     display: inline-block;
     width: 4px;
     height: 16px;
@@ -125,17 +129,68 @@ span.swiper-pagination-bullet-active {
     display: none;
 }
 
-.collection-card{
+.collection-card {
     width: 35vw;
+    text-decoration: none;
 }
 
-.card-image{
+.card-image {
     height: 35vw;
     width: 35vw;
     object-fit: cover;
     border-radius: 8px;
 }
 
-.card-title{
+.card-title {
     font-size: 14px;
+
+    color: black;
+}
+
+@media (min-width: 900px) {
+    nav {
+        display: none;
+    }
+
+    .hero {
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    .hero,
+    .hero-overlay,
+    .hero img {
+        height: 600px;
+    }
+
+
+    .collection-group {
+        -ms-overflow-style: initial;
+        scrollbar-width: initial;
+        gap: 32px;
+    }
+
+    .collection-group::-webkit-scrollbar {
+        display: initial;
+    }
+
+    .collection-card {
+        width: 200px;
+    }
+    .card-image_container{
+        width: 200px;
+        height: 200px;
+        overflow: hidden;
+        border-radius: 8px;
+    }
+
+    .card-image {
+        height: 200px;
+        width: 200px;
+        transition: transform .5s ease;
+    }
+
+    .card-image_container:hover .card-image {
+      transform: scale(1.2);
+    }
 }
