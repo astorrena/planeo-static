@@ -1,0 +1,222 @@
+[
+    {
+        "id": "1",
+        "title": "Txori Kantazale",
+        "slug": "#ERROR!",
+        "image": "https://www.teatroarriaga.eus/wp-content/uploads/2023/05/cabecera-67.jpg",
+        "content": null,
+        "date": "25/01/2024 12:00:00",
+        "place": "Teatro Campos Elíseos",
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "2",
+        "title": "Txori Kantazale",
+        "slug": "#ERROR!",
+        "image": null,
+        "content": null,
+        "date": "26/01/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "3",
+        "title": "Txori Kantazale",
+        "slug": "#ERROR!",
+        "image": null,
+        "content": null,
+        "date": "27/01/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "4",
+        "title": "Txori Kantazale",
+        "slug": "#ERROR!",
+        "image": null,
+        "content": null,
+        "date": "28/01/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "5",
+        "title": "Txori Kantazale",
+        "slug": "#ERROR!",
+        "image": null,
+        "content": null,
+        "date": "29/01/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "6",
+        "title": "Txori Kantazale",
+        "slug": "#ERROR!",
+        "image": null,
+        "content": null,
+        "date": "30/01/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "7",
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "31/01/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "8",
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "1/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "9",
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "2/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "10",
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "3/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "11",
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "4/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "5/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "6/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "7/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "8/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "9/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "10/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "11/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "12/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": null,
+        "title": null,
+        "slug": null,
+        "image": null,
+        "content": null,
+        "date": "13/02/2024 12:00:00",
+        "place": null,
+        "url": null,
+        "soldOut": null
+    }
+]
