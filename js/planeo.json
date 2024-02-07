@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "title": "Txori Kantazale",
+        "slug": null,
+        "image": "https://www.teatroarriaga.eus/wp-content/uploads/2023/05/cabecera-67.jpg",
+        "content": null,
+        "date": null,
+        "startDate": null,
+        "endDate": null,
+        "place": "Teatro Campos Elíseos",
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "2",
+        "title": "Sortaldeok",
+        "slug": null,
+        "image": "https://www.teatroarriaga.eus/wp-content/uploads/2023/05/cabecera-69.jpg",
+        "content": null,
+        "date": null,
+        "startDate": null,
+        "endDate": null,
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "3",
+        "title": "Komedia Madarikatua",
+        "slug": null,
+        "image": "https://www.teatroarriaga.eus/wp-content/uploads/2023/05/cabecera-30.jpg",
+        "content": null,
+        "date": null,
+        "startDate": null,
+        "endDate": null,
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "4",
+        "title": "Contracciones",
+        "slug": null,
+        "image": "https://www.teatroarriaga.eus/wp-content/uploads/2023/05/cabecera-1.jpg",
+        "content": null,
+        "date": null,
+        "startDate": null,
+        "endDate": null,
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "5",
+        "title": "Poncia",
+        "slug": null,
+        "image": "https://www.teatroarriaga.eus/wp-content/uploads/2023/06/poncia-principal.jpg",
+        "content": null,
+        "date": null,
+        "startDate": null,
+        "endDate": null,
+        "place": null,
+        "url": null,
+        "soldOut": null
+    },
+    {
+        "id": "6",
+        "title": "Salomé",
+        "slug": null,
+        "image": "https://www.teatroarriaga.eus/wp-content/uploads/2023/06/salome-principal.jpg",
+        "content": null,
+        "date": null,
+        "startDate": null,
+        "endDate": null,
+        "place": null,
+        "url": null,
+        "soldOut": null
+    }
+]

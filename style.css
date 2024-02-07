@@ -116,7 +116,7 @@ span.swiper-pagination-bullet-active {
     background: rgb(255, 204, 0);
 }
 
-.collection-group {
+#collection-group {
     display: flex;
     gap: 16px;
     padding-right: 16px;
