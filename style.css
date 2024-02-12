@@ -1,8 +1,28 @@
+@font-face {
+    font-family: 'Basier Regular';
+    src: url('fonts/basiersquare-regular-webfont.ttf');
+}
+
+@font-face {
+    font-family: 'Basier Medium';
+    src: url('fonts/basiersquare-medium-webfont.ttf');
+}
+
+@font-face {
+    font-family: 'Basier Semibold';
+    src: url('fonts/basiersquare-semibold-webfont.ttf');
+}
+
+@font-face {
+    font-family: 'Basier Bold';
+    src: url('fonts/basiersquare-bold-webfont.ttf');
+}
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Sora', sans-serif;
+    font-family: 'Basier Regular';
     list-style: none;
 }
 
@@ -18,14 +38,14 @@ nav {
     position: relative;
 }
 
-.nav-overlay {
+/* .nav-overlay {
     width: 120px;
     height: 100%;
     right: 0;
     position: absolute;
     background: rgb(255, 255, 255);
     background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%);
-}
+} */
 
 nav ul {
     display: flex;
@@ -43,7 +63,9 @@ nav ul::-webkit-scrollbar {
 
 nav ul li {
     padding: 8px 12px;
-    border: 1px solid black;
+    color: #030303;
+    background-color: #F2F2F2;
+    font-family: 'Basier Medium';
     border-radius: 40px;
     font-size: 12px;
     white-space: nowrap;
@@ -64,11 +86,18 @@ nav ul li {
 
 .hero-info {
     position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
     bottom: 32px;
     left: 24px;
     color: white;
     z-index: 1;
-
+}
+.hero-info h2 {
+    font-family: 'Basier Bold';
+    font-size: 24px;
+    line-height: 29px;
 }
 
 /* swiper-container {
@@ -96,27 +125,27 @@ span.swiper-pagination-bullet-active {
 } */
 
 .plan-collection {
-    padding-left: 16px;
     margin-top: 40px;
 }
 
 .collection-title {
     margin-bottom: 16px;
-    /* border-left: 4px rgb(255, 204, 0) solid; */
-    padding-left: 8px;
+    color: #E5105D;
+    font-family: 'Basier Semibold';
+    padding-left: 16px;
     font-size: 20px;
 }
 
-.collection-title::before {
+/* .collection-title::before {
     content: "";
     display: inline-block;
     width: 4px;
     height: 16px;
     margin: 0 2px -1px 0;
     background: rgb(255, 204, 0);
-}
+} */
 
-#collection-group {
+.collection-group {
     display: flex;
     gap: 16px;
     padding-right: 16px;
@@ -134,17 +163,24 @@ span.swiper-pagination-bullet-active {
     text-decoration: none;
 }
 
+.collection-card:first-child {
+    margin-left: 16px;
+}
+
 .card-image {
     height: 35vw;
     width: 35vw;
     object-fit: cover;
     border-radius: 8px;
+    margin-bottom: 8px;
+
 }
 
 .card-title {
     font-size: 14px;
+    color: #030303;
+    font-family: 'Basier Semibold';
 
-    color: black;
 }
 
 @media (min-width: 900px) {
